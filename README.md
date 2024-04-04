@@ -1,4 +1,8 @@
-## Bem-vindo(a) ao meu perfil
+Olá, seja muito bem vindo!
+
+Sobre mim:
+Eu sou um estudande de programação, apaixonado pelas linguagens C# e JS.
+
 
  
     
