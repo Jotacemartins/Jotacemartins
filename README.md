@@ -1,6 +1,6 @@
-Olá, seja muito bem vindo!
+Olá, seja muito bem vindo! :v:
 
-Sobre mim: :globe_with_meridians:
+Sobre mim: :mag_right:
 <p>Eu sou um estudande de programação, apaixonado pelas linguagens C# e JS.</p>
 
 
