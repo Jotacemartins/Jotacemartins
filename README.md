@@ -1,7 +1,7 @@
 Olá, seja muito bem vindo!
 
-Sobre mim:
-Eu sou um estudande de programação, apaixonado pelas linguagens C# e JS.
+Sobre mim: :globe_with_meridians:
+<p>Eu sou um estudande de programação, apaixonado pelas linguagens C# e JS.</p>
 
 
  
