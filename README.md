@@ -1,12 +1,11 @@
-
-Desenvolvedor FrontEnd - Next.js | React.js | Typescript | Javascript | Node.js | Express | PostgreSQL | MongoDB | Git
+<title>Jhonatha Cunha Martins - Desenvolvedor Front End</title>
 
 
 
 
 
 Sobre mim: :mag_right:
-<p>Eu sou um estudande de programação, apaixonado pelas linguagens C# e JS.</p>
+<p>Perfil em construção</p>
 
 
  
@@ -15,12 +14,12 @@ Sobre mim: :mag_right:
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt= C# heitght="30" width="40" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/csharp/csharp.png">
+
 </div>
  
 <br>
  
-### abaixo segue minhas redes sociais!
+### Redes sociais!
  
 <div> 
   <a href="https://instagram.com/jhonathacm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
