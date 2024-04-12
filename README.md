@@ -3,7 +3,7 @@ Desenvolvedor FrontEnd - Next.js | React.js | Typescript | Javascript | Node.js 
 
 
 
-Olá, seja muito bem vindo! :v:
+
 
 Sobre mim: :mag_right:
 <p>Eu sou um estudande de programação, apaixonado pelas linguagens C# e JS.</p>
