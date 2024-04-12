@@ -1,5 +1,5 @@
 
-![mario](https://github.com/Jotacemartins/Jotacemartins/assets/144477471/1e180bd5-48e1-41c0-921e-c859cc8e05e7)
+Desenvolvedor FrontEnd - Next.js | React.js | Typescript | Javascript | Node.js | Express | PostgreSQL | MongoDB | Git
 
 
 
