@@ -4,7 +4,7 @@
 
 
 
-Sobre mim: :mag_right:
+
 <p>Perfil em construção</p>
 
 
