@@ -4,12 +4,6 @@
 
 
 
-<div>
-   <a href="https://github.com/Jotacemartins">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jotacemartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotacemartins&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
  
 <br>
 
