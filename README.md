@@ -5,7 +5,7 @@
     </a>
   </h2>
 
-    <img src="https://github.com/Jotacemartins/Jotacemartins/assets/144477471/328701ea-f5c8-4d53-a2f2-98e90938df4c" alt="lofi estud">
+    ![lofi estud](https://github.com/Jotacemartins/Jotacemartins/assets/144477471/328701ea-f5c8-4d53-a2f2-98e90938df4c)
   </div>
   <br>
 
