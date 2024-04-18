@@ -4,15 +4,20 @@
 
 <br>
 
-### My Stack!
+<div align="center">
+  
+## Algumas Linguagens que tenho estudado até aqui! 😃
+  
+  <h4><strong>💻 Front-End Developer</strong></h4>
+    <img width="500px" src="https://skillicons.dev/icons?i=react,next,vite,redux,materialui,javascript,typescript,styledcomponents,sass,css,html,git" />
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <h4><strong>🚪 Back-End Developer</strong></h4>
+    <img width="500px" src="https://skillicons.dev/icons?i=nodejs,sequelize,prisma,mysql,postgresql,mongodb,firebase,java,spring,php" />
+
+  <h4><strong>🛠️ Favorite Tools</strong></h4>
+    <img width="500px" src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,discord,postman,linux,aws" />    
+
 </div>
- 
-<br>
  
 ### Redes sociais!
  
