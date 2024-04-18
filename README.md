@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Olá,+eu+sou+o+Jhonatha+Martins!)](https://git.io/typing-svg)
 
 
-
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
  
 <br>
 
