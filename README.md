@@ -1,24 +1,25 @@
 <div align="center">
-  <h2>
+  <h2 align="left">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Jhonatha+Martins%21" alt="Typing SVG">
     </a>
   </h2>
 
-    ![lofi estud](https://github.com/Jotacemartins/Jotacemartins/assets/144477471/328701ea-f5c8-4d53-a2f2-98e90938df4c)
-  </div>
-  <br>
+  <img src="https://github.com/Jotacemartins/Jotacemartins/assets/144477471/328701ea-f5c8-4d53-a2f2-98e90938df4c" alt="lofi estud">
+</div>
+<br>
 
-  <h2>Algumas Linguagens que tenho estudado até aqui! </h2>
+<div align="center">
+  <h2>Algumas Linguagens que tenho estudado até aqui! 😃</h2>
 
   <h4><strong>💻 Front-End Developer</strong></h4>
-  <img width="400px" src="https://skillicons.dev/icons?i=react,next,javascript,typescript,css,html,git" alt="Front-End Developer Skills">
+  <img width="500px" src="https://skillicons.dev/icons?i=react,next,vite,redux,materialui,javascript,typescript,styledcomponents,sass,css,html,git" alt="Front-End Developer Skills">
 
   <h4><strong>🚪 Back-End Developer</strong></h4>
-  <img width="120px" src="https://skillicons.dev/icons?i=nodejs,c#" alt="Back-End Developer Skills">
+  <img width="500px" src="https://skillicons.dev/icons?i=nodejs,sequelize,prisma,mysql,postgresql,mongodb,firebase,java,spring,php" alt="Back-End Developer Skills">
 
   <h4><strong>🛠️ Favorite Tools</strong></h4>
-  <img width="250px" src="https://skillicons.dev/icons?i=vscode,github,bash,discord" alt="Favorite Tools">
+  <img width="500px" src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,discord,postman,linux,aws" alt="Favorite Tools">
 </div>
  
 <h3 align="center">Redes sociais!</h3>
