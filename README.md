@@ -19,7 +19,7 @@
   <img width="500px" src="https://skillicons.dev/icons?i=nodejs,c#" alt="Back-End Developer Skills">
 
   <h4><strong>🛠️ Favorite Tools</strong></h4>
-  <img width="500px" src="https://skillicons.dev/icons?i=vscode,github,gitlab,bash,discord" alt="Favorite Tools">
+  <img width="500px" src="https://skillicons.dev/icons?i=vscode,github,bash,discord" alt="Favorite Tools">
 </div>
  
 <h3 align="center">Redes sociais!</h3>
