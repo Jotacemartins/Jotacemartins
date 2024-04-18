@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <h2>Algumas Linguagens que tenho estudado até aqui! 😃</h2>
+  <h2>Algumas Linguagens que tenho estudado até aqui! </h2>
 
   <h4><strong>💻 Front-End Developer</strong></h4>
   <img width="500px" src="https://skillicons.dev/icons?i=react,next,javascript,typescript,css,html,git" alt="Front-End Developer Skills">
