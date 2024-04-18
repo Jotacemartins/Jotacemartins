@@ -13,7 +13,7 @@
   <h2>Algumas Linguagens que tenho estudado até aqui! </h2>
 
   <h4><strong>💻 Front-End Developer</strong></h4>
-  <img width="100px" src="https://skillicons.dev/icons?i=react,next,javascript,typescript,css,html,git" alt="Front-End Developer Skills">
+  <img width="400px" src="https://skillicons.dev/icons?i=react,next,javascript,typescript,css,html,git" alt="Front-End Developer Skills">
 
   <h4><strong>🚪 Back-End Developer</strong></h4>
   <img width="40px" src="https://skillicons.dev/icons?i=nodejs,c#" alt="Back-End Developer Skills">
