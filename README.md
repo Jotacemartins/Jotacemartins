@@ -13,13 +13,13 @@
   <h2>Algumas Linguagens que tenho estudado até aqui! 😃</h2>
 
   <h4><strong>💻 Front-End Developer</strong></h4>
-  <img width="500px" src="https://skillicons.dev/icons?i=react,next,vite,redux,materialui,javascript,typescript,styledcomponents,sass,css,html,git" alt="Front-End Developer Skills">
+  <img width="500px" src="https://skillicons.dev/icons?i=react,next,javascript,typescript,css,html,git" alt="Front-End Developer Skills">
 
   <h4><strong>🚪 Back-End Developer</strong></h4>
-  <img width="500px" src="https://skillicons.dev/icons?i=nodejs,sequelize,prisma,mysql,postgresql,mongodb,firebase,java,spring,php" alt="Back-End Developer Skills">
+  <img width="500px" src="https://skillicons.dev/icons?i=nodejs,c#" alt="Back-End Developer Skills">
 
   <h4><strong>🛠️ Favorite Tools</strong></h4>
-  <img width="500px" src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,discord,postman,linux,aws" alt="Favorite Tools">
+  <img width="500px" src="https://skillicons.dev/icons?i=vscode,github,gitlab,bash,discord" alt="Favorite Tools">
 </div>
  
 <h3 align="center">Redes sociais!</h3>
