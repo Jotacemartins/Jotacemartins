@@ -8,12 +8,7 @@
   <img src="https://github.com/Jotacemartins/Jotacemartins/assets/144477471/328701ea-f5c8-4d53-a2f2-98e90938df4c" alt="lofi estud">
 </div>
 <br>
-<div align="center">
-  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/>
-  <img width="485em" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" />
-<br />
-</div>
-<div align="center">
+
   <h2>Algumas Linguagens que tenho estudado até aqui! </h2>
 
   <h4><strong>💻 Front-End Developer</strong></h4>
