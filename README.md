@@ -16,10 +16,10 @@
   <img width="400px" src="https://skillicons.dev/icons?i=react,next,javascript,typescript,css,html,git" alt="Front-End Developer Skills">
 
   <h4><strong>🚪 Back-End Developer</strong></h4>
-  <img width="120px" src="https://skillicons.dev/icons?i=nodejs,c#" alt="Back-End Developer Skills">
+  <img width="120px" src="https://skillicons.dev/icons?i=nodejs,c#,python" alt="Back-End Developer Skills">
 
   <h4><strong>🛠️ Favorite Tools</strong></h4>
-  <img width="250px" src="https://skillicons.dev/icons?i=vscode,github,gitbash,discord" alt="Favorite Tools">
+  <img width="250px" src="https://skillicons.dev/icons?i=vscode,github,bash,discord" alt="Favorite Tools">
 </div>
  
 <h3 align="center">Redes sociais!</h3>
